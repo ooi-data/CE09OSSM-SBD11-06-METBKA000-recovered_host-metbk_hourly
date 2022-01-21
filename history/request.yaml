@@ -1,5 +1,5 @@
-data_ready: true
+data_ready: false
 data_stream: CE09OSSM-SBD11-06-METBKA000-recovered_host-metbk_hourly
-last_request: '2022-01-01T01:07:55.671542Z'
+last_request: '2022-01-21T03:22:31.615940Z'
 response: https://raw.githubusercontent.com/ooi-data/CE09OSSM-SBD11-06-METBKA000-recovered_host-metbk_hourly/main/history/response.json
-status: success
+status: pending
